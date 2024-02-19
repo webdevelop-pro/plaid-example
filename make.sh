@@ -4,7 +4,6 @@ set -xe
 case $1 in
 
 install)
-  go get go get github.com/plaid/plaid-go@v20.1.0
   go get ./...
   ;;
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	plaid "github.com/plaid/plaid-go/v20"
+	plaid "github.com/plaid/plaid-go/v20/plaid"
 )
 
 func main() {
